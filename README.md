@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Saleem Habash</h1>
 <h3 align="center">A passionate Technology Risk and Cybersecurity expert. Vast experience in Investment Funds Services with responsibility for Cloud, Infrastructure, Middleware, Security, Application Engineering, along with IT Strategy, Governance & financial controls oversight.</h3>
 
-- 🔭 I’m currently working on **JIRA Dashboard for**
+- 🔭 I’m currently working on **Cloud security automation audit**
 
 - 👯 I’m looking to collaborate on **Privacy audit for small business**
 
-- 👨‍💻 At my free time [Building and enhancing my home lab](Building and enhancing my home lab)
+- 👨‍💻 At my free time [Building and enhancing home lab for home automation](Building and enhancing home lab for home automation)
 
 - 📝 I regularly write articles on [https://medium.com/@saleemhabash](https://medium.com/@saleemhabash)
 
 - 💬 Ask me about **Auditing , Cloud Security audit and risk assessment, Regulatory compliance and best practices**
+
+- 📫 How to reach me **saleemhabash@proton.me**
 
 - ⚡ Cerified in **CPA, CISA, CISSP, AWS SAA**
 
